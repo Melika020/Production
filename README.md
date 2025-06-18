@@ -1,4 +1,4 @@
-# B3 Production
+# GitLab-Webhook-Dashboard
 
 ## Where to find the app:
 the application is available on https://cscloud9-50.lnu.se/webhook
